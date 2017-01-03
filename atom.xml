@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-03T03:56:22.269Z</updated>
+  <updated>2017-01-03T04:00:59.954Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -19,10 +19,17 @@
     <title>EXNVizer</title>
     <link href="mwang27.github.io/2017/01/03/exnvizer/"/>
     <id>mwang27.github.io/2017/01/03/exnvizer/</id>
-    <published>2017-01-03T03:56:04.000Z</published>
-    <updated>2017-01-03T03:56:22.269Z</updated>
+    <published>2017-01-03T04:00:59.995Z</published>
+    <updated>2017-01-03T04:00:59.954Z</updated>
+    
+    <content type="html"><![CDATA[<p>基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;
     
     </summary>
     
