@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-03T10:38:41.748Z</updated>
+  <updated>2017-01-03T10:47:58.612Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EXNSolve</title>
+    <link href="mwang27.github.io/2017/01/03/EXNSolve/"/>
+    <id>mwang27.github.io/2017/01/03/EXNSolve/</id>
+    <published>2017-01-03T10:46:49.000Z</published>
+    <updated>2017-01-03T10:47:58.612Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="Data Visualization" scheme="mwang27.github.io/tags/Data-Visualization/"/>
+    
+      <category term="JavaScript" scheme="mwang27.github.io/tags/JavaScript/"/>
+    
+      <category term="Single Page App" scheme="mwang27.github.io/tags/Single-Page-App/"/>
+    
+      <category term="NW.js" scheme="mwang27.github.io/tags/NW-js/"/>
+    
+      <category term="node.js" scheme="mwang27.github.io/tags/node-js/"/>
+    
+  </entry>
   
   <entry>
     <title>EXNVizer数据可视化平台</title>
