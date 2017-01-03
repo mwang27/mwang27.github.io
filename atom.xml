@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Point5Miles&#39; Trail</title>
-  
+  <title>Point5Miles</title>
+  <subtitle>Trailing the points</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
@@ -9,7 +9,7 @@
   <id>mwang27.github.io/</id>
   
   <author>
-    <name>mwang</name>
+    <name>Meng</name>
     
   </author>
   
