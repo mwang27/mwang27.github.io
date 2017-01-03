@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2016-12-29T03:00:29.755Z</updated>
+  <updated>2017-01-03T03:56:22.269Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EXNVizer</title>
+    <link href="mwang27.github.io/2017/01/03/exnvizer/"/>
+    <id>mwang27.github.io/2017/01/03/exnvizer/</id>
+    <published>2017-01-03T03:56:04.000Z</published>
+    <updated>2017-01-03T03:56:22.269Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
