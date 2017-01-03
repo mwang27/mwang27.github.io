@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-03T04:09:44.918Z</updated>
+  <updated>2017-01-03T08:45:57.239Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="mwang27.github.io/2017/01/03/exnvizer/"/>
+    <id>mwang27.github.io/2017/01/03/exnvizer/</id>
+    <published>2017-01-03T08:45:57.293Z</published>
+    <updated>2017-01-03T08:45:57.239Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<h2 id="EXNVizer"><a href="#EXNVizer" class="headerlink" title="EXNVizer"></a>EXNVizer</h2><p>基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="数据可视化概述"><a href="#数据可视化概述" class="headerlink" title="数据可视化概述"></a>数据可视化概述</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<h3 id="并行计算"><a href="#并行计算" class="headerlink" title="并行计算"></a>并行计算</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;h2 id=&quot;EXNVizer&quot;&gt;&lt;a href=&quot;#EXNVizer&quot; class=&quot;headerlink&quot; title=&quot;EXNVizer&quot;&gt;&lt;/a&gt;EXNVizer&lt;/h2&gt;&lt;p&gt;基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -36,27 +58,6 @@
     <summary type="html">
     
       &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>EXNVizer</title>
-    <link href="mwang27.github.io/2017/01/03/exnvizer/"/>
-    <id>mwang27.github.io/2017/01/03/exnvizer/</id>
-    <published>2017-01-03T04:09:40.874Z</published>
-    <updated>2017-01-03T04:09:40.823Z</updated>
-    
-    <content type="html"><![CDATA[<p>基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;
     
     </summary>
     
