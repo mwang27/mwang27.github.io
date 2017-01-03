@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-03T11:04:39.007Z</updated>
+  <updated>2017-01-03T11:22:43.955Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -16,35 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>EXNSolve精简版可视化NW.js单页应用</title>
-    <link href="mwang27.github.io/2017/01/03/EXNSolve/"/>
-    <id>mwang27.github.io/2017/01/03/EXNSolve/</id>
-    <published>2017-01-03T10:46:49.000Z</published>
-    <updated>2017-01-03T11:04:39.007Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-      <category term="Data Visualization" scheme="mwang27.github.io/tags/Data-Visualization/"/>
-    
-      <category term="JavaScript" scheme="mwang27.github.io/tags/JavaScript/"/>
-    
-      <category term="Single Page App" scheme="mwang27.github.io/tags/Single-Page-App/"/>
-    
-      <category term="NW.js" scheme="mwang27.github.io/tags/NW-js/"/>
-    
-      <category term="node.js" scheme="mwang27.github.io/tags/node-js/"/>
-    
-  </entry>
-  
-  <entry>
     <title>EXNVizer数据可视化平台</title>
     <link href="mwang27.github.io/2017/01/03/exnvizer/"/>
     <id>mwang27.github.io/2017/01/03/exnvizer/</id>
     <published>2017-01-03T10:13:59.000Z</published>
-    <updated>2017-01-03T10:38:41.748Z</updated>
+    <updated>2017-01-03T11:22:43.955Z</updated>
     
     <content type="html"><![CDATA[<p>基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="数据可视化概述"><a href="#数据可视化概述" class="headerlink" title="数据可视化概述"></a>数据可视化概述</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
