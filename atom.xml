@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-06T04:37:12.229Z</updated>
+  <updated>2017-01-06T04:50:55.130Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -16,40 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>EXNVizer--基于JavaFX8构建综合并行计算数据可视化平台</title>
-    <link href="mwang27.github.io/2017/01/06/exnvizer/"/>
-    <id>mwang27.github.io/2017/01/06/exnvizer/</id>
-    <published>2017-01-06T04:37:12.273Z</published>
-    <updated>2017-01-06T04:37:12.229Z</updated>
-    
-    <content type="html"><![CDATA[<p>基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="数据可视化概述"><a href="#数据可视化概述" class="headerlink" title="数据可视化概述"></a>数据可视化概述</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<h3 id="并行计算"><a href="#并行计算" class="headerlink" title="并行计算"></a>并行计算</h3><h3 id="数据可视化步骤"><a href="#数据可视化步骤" class="headerlink" title="数据可视化步骤"></a>数据可视化步骤</h3>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;基于JavaSE/JavaFX+SQLite+Gradle构建和部署实时数据可视化桌面应用&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;
-    
-    </summary>
-    
-      <category term="数据可视化" scheme="mwang27.github.io/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
-    
-    
-      <category term="Data Visualization" scheme="mwang27.github.io/tags/Data-Visualization/"/>
-    
-      <category term="JavaFX8" scheme="mwang27.github.io/tags/JavaFX8/"/>
-    
-      <category term="Gradle" scheme="mwang27.github.io/tags/Gradle/"/>
-    
-  </entry>
-  
-  <entry>
     <title>wiki_update_parser--用Python编写用于更新Trac_wiki系统页面的模板解析脚本</title>
-    <link href="mwang27.github.io/2017/01/06/trac-py/"/>
-    <id>mwang27.github.io/2017/01/06/trac-py/</id>
-    <published>2017-01-06T04:20:32.000Z</published>
-    <updated>2017-01-06T04:37:12.123Z</updated>
+    <link href="mwang27.github.io/2016/12/30/tracPy/"/>
+    <id>mwang27.github.io/2016/12/30/tracPy/</id>
+    <published>2016-12-30T02:20:32.000Z</published>
+    <updated>2017-01-06T04:50:55.130Z</updated>
     
     <content type="html"><![CDATA[<p>该parser采用.ini</p>
 ]]></content>
@@ -73,18 +44,18 @@
   </entry>
   
   <entry>
-    <title>EXNSolve--基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单页应用</title>
-    <link href="mwang27.github.io/2017/01/06/exnsolve/"/>
-    <id>mwang27.github.io/2017/01/06/exnsolve/</id>
-    <published>2017-01-06T04:18:41.000Z</published>
-    <updated>2017-01-06T04:37:12.173Z</updated>
+    <title>EXNSolve精简版百万级别数据点可视化单页应用</title>
+    <link href="mwang27.github.io/2016/12/29/exnsolve/"/>
+    <id>mwang27.github.io/2016/12/29/exnsolve/</id>
+    <published>2016-12-29T01:10:13.000Z</published>
+    <updated>2017-01-06T04:50:55.067Z</updated>
     
-    <content type="html"><![CDATA[<p>EXNSolve是一个</p>
+    <content type="html"><![CDATA[<p>EXNSolve是一个基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单页应用.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;EXNSolve是一个&lt;/p&gt;
+      &lt;p&gt;EXNSolve是一个基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单页应用.&lt;/p&gt;
 
     
     </summary>
@@ -97,6 +68,35 @@
       <category term="DyGraphs.js" scheme="mwang27.github.io/tags/DyGraphs-js/"/>
     
       <category term="SQLite3" scheme="mwang27.github.io/tags/SQLite3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>EXNVizer实时并行计算数据可视化设计与实现</title>
+    <link href="mwang27.github.io/2016/12/29/exnvizer/"/>
+    <id>mwang27.github.io/2016/12/29/exnvizer/</id>
+    <published>2016-12-29T00:20:45.000Z</published>
+    <updated>2017-01-06T04:50:55.164Z</updated>
+    
+    <content type="html"><![CDATA[<p>EXNVizer是一个基于JavaSE/JavaFX+SQLite+Gradle构建和部署的综合实时并行数据可视化框架与桌面应用。</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="数据可视化概述"><a href="#数据可视化概述" class="headerlink" title="数据可视化概述"></a>数据可视化概述</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<h3 id="并行计算"><a href="#并行计算" class="headerlink" title="并行计算"></a>并行计算</h3><h3 id="数据可视化步骤"><a href="#数据可视化步骤" class="headerlink" title="数据可视化步骤"></a>数据可视化步骤</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;EXNVizer是一个基于JavaSE/JavaFX+SQLite+Gradle构建和部署的综合实时并行数据可视化框架与桌面应用。&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; titl
+    
+    </summary>
+    
+      <category term="数据可视化" scheme="mwang27.github.io/categories/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    
+    
+      <category term="Data Visualization" scheme="mwang27.github.io/tags/Data-Visualization/"/>
+    
+      <category term="JavaFX8" scheme="mwang27.github.io/tags/JavaFX8/"/>
+    
+      <category term="Gradle" scheme="mwang27.github.io/tags/Gradle/"/>
     
   </entry>
   
