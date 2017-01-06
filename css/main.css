@@ -1681,7 +1681,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c1c4bb;
+  background: #ff00fc;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2450,9 +2450,6 @@ a.search-result {
 .page-post-detail .comments {
   overflow: hidden;
 }
-body {
-  background: url("/images/archLinux.jpg");
-}
 @media (min-width: 992px) {
   .full-image.full-image.full-image {
     max-width: none;
@@ -2847,4 +2844,7 @@ body {
   .post-body {
     text-align: justify;
   }
+}
+.content-wrap {
+  background: transparent;
 }
