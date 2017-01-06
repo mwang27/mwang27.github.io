@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Somiar&#39;s Blog</title>
+  <title>Ginkgo&#39;s Blog</title>
   
   <link href="/atom.xml" rel="self"/>
   
@@ -9,7 +9,7 @@
   <id>mwang27.github.io/</id>
   
   <author>
-    <name>mwang27</name>
+    <name>Ginkgo</name>
     
   </author>
   
