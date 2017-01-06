@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-06T04:57:49.701Z</updated>
+  <updated>2017-01-06T05:00:05.894Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -20,15 +20,14 @@
     <link href="mwang27.github.io/2016/12/29/exnsolve/"/>
     <id>mwang27.github.io/2016/12/29/exnsolve/</id>
     <published>2016-12-29T01:10:13.000Z</published>
-    <updated>2017-01-06T04:57:49.701Z</updated>
+    <updated>2017-01-06T05:00:05.894Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://github.com/mwang27/EXNSolve" alt="EXNSolve">是一个基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单页应用.</p>
+    <content type="html"><![CDATA[<p><a href="https://github.com/mwang27/EXNSolve" target="_blank" rel="external">EXNSolve</a>是一个基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单页应用.</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://github.com/mwang27/EXNSolve&quot; alt=&quot;EXNSolve&quot;&gt;是一个基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单页应用.&lt;/p&gt;
-
+      &lt;p&gt;&lt;a href=&quot;https://github.com/mwang27/EXNSolve&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EXNSolve&lt;/a&gt;是一个基于Node-Webkit.js+DyGraphs.js+SQLite3构建高数据可视化单
     
     </summary>
     
@@ -48,16 +47,15 @@
     <link href="mwang27.github.io/2016/12/29/exnvizer/"/>
     <id>mwang27.github.io/2016/12/29/exnvizer/</id>
     <published>2016-12-29T00:20:45.000Z</published>
-    <updated>2017-01-06T04:57:22.161Z</updated>
+    <updated>2017-01-06T05:00:09.900Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://github.com/mwang27/EXNVizer" alt="EXNVizer">是一个基于JavaSE/JavaFX+SQLite+Gradle构建和部署的综合实时并行数据可视化框架与桌面应用。</p>
+    <content type="html"><![CDATA[<p><a href="https://github.com/mwang27/EXNVizer" target="_blank" rel="external">EXNVizer</a>是一个基于JavaSE/JavaFX+SQLite+Gradle构建和部署的综合实时并行数据可视化框架与桌面应用。</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="数据可视化概述"><a href="#数据可视化概述" class="headerlink" title="数据可视化概述"></a>数据可视化概述</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <h3 id="并行计算"><a href="#并行计算" class="headerlink" title="并行计算"></a>并行计算</h3><h3 id="数据可视化步骤"><a href="#数据可视化步骤" class="headerlink" title="数据可视化步骤"></a>数据可视化步骤</h3>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;https://github.com/mwang27/EXNVizer&quot; alt=&quot;EXNVizer&quot;&gt;是一个基于JavaSE/JavaFX+SQLite+Gradle构建和部署的综合实时并行数据可视化框架与桌面应用。&lt;/p&gt;
-&lt;h2 id=&quot;Quick
+      &lt;p&gt;&lt;a href=&quot;https://github.com/mwang27/EXNVizer&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;EXNVizer&lt;/a&gt;是一个基于JavaSE/JavaFX+SQLite+Gradle构建和部署的综合实时并行数据可视
     
     </summary>
     
