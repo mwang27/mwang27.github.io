@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="mwang27.github.io/"/>
-  <updated>2017-01-06T05:22:28.254Z</updated>
+  <updated>2017-01-09T08:11:34.271Z</updated>
   <id>mwang27.github.io/</id>
   
   <author>
@@ -14,6 +14,20 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Springboot+mybatis+mysql+bootstrap轻松构建动态网站</title>
+    <link href="mwang27.github.io/2017/01/09/springboot/"/>
+    <id>mwang27.github.io/2017/01/09/springboot/</id>
+    <published>2017-01-09T08:09:32.000Z</published>
+    <updated>2017-01-09T08:11:34.271Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>EXNSolve精简版百万级别数据点可视化单页应用</title>
@@ -103,19 +117,19 @@
     <link href="mwang27.github.io/2016/10/09/spring4x/"/>
     <id>mwang27.github.io/2016/10/09/spring4x/</id>
     <published>2016-10-09T07:39:21.000Z</published>
-    <updated>2017-01-09T08:00:56.613Z</updated>
+    <updated>2017-01-09T08:05:55.731Z</updated>
     
     <content type="html"><![CDATA[<p>参考: <a href="http://www.imooc.com/" target="_blank" rel="external"><code>imooc</code></a>网站 <a href="http://www.imooc.com/learn/196" target="_blank" rel="external">Spring入门系列</a>：</p>
 <h2 id="Spring概述"><a href="#Spring概述" class="headerlink" title="Spring概述"></a>Spring概述</h2><blockquote>
 <ul>
-<li>Spring是一个<code>开源框架</code>,内部整合了多种应用和基础<code>类库</code>；</li>
-<li>Spring发源于解决<code>企业应用</code>开发复杂性，现今已发展为不止企业应用，更支持各种<code>web互联网应用</code>的构建；</li>
-<li>Spring可用作一个<code>轻量级</code>的<code>控制反转（IOC）</code>和<code>面向切面（AOP）</code>的<code>容器框架</code><ul>
+<li>Spring是一个开源框架,内部整合了多种应用和基础类库；</li>
+<li>Spring发源于解决企业应用开发复杂性，现今已发展为不止企业应用，更支持各种web互联网应用的构建；</li>
+<li>Spring可用作一个轻量级的<a href=""><code>控制反转（IOC）</code></a>和<a href=""><code>面向切面（AOP）</code></a>的容器框架<ul>
 <li>从大小与开销而言，Spring是轻量的，</li>
-<li>通过控制反转(IOC)技术实现<code>依赖解耦</code>的目的，</li>
-<li>提供了面向切面编程(AOP)的丰富支持，允许通过<code>分离</code>应用的<code>业务逻辑</code>与<code>系统级服务</code>进行内聚性开发，</li>
+<li>通过控制反转(IOC)技术实现依赖解耦的目的，</li>
+<li>提供了面向切面编程(AOP)的丰富支持，允许通过分离应用的<code>业务逻辑</code>与<code>系统级服务</code>进行内聚性开发，</li>
 <li>包含并管理应用对象的<code>配置和生命周期</code>，所以Spring是一种<code>容器</code>，</li>
-<li>将简单的<code>组件</code>配置并组合，成为复杂的应用，所以Spring也是一种<code>框架</code>。</li>
+<li>将简单的组件配置并组合，成为复杂的应用，所以Spring也是一种框架。</li>
 </ul>
 </li>
 </ul>
